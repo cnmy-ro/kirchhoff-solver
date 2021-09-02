@@ -1,0 +1,4 @@
+Circuit 1
+v 1 0 dc 10
+r 1 0 5
+.end

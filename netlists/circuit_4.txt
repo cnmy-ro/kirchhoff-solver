@@ -1,0 +1,6 @@
+Circuit 4
+v 1 0 dc 10
+r1 1 2 2
+r2 2 0 4
+r3 2 0 4
+.end
